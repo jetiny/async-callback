@@ -1,0 +1,32 @@
+{
+  "name": "async-callback",
+  "version": "0.0.1",
+  "description": "async callback wrapper for nodejs",
+  "main": "async-callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jetiny/async-callback.git"
+  },
+  "keywords": [
+    "async",
+    "asynchronous",
+    "control",
+    "step",
+    "counter",
+    "reference",
+    "callback",
+    "callbacks"
+  ],
+  "author": {
+    "name": "jetiny",
+    "email": "jetiny8@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jetiny/async-callback/issues"
+  },
+  "homepage": "https://github.com/jetiny/async-callback"
+}
